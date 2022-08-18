@@ -19,6 +19,12 @@
       "stroke": "#753cd8",
       "color": "#753cd8",
       "icon": "https://raw.githubusercontent.com/Mrkisha/structurizr/main/themes/deployment/img/Azure%20Container%20Apps.png"
+    },
+    {
+      "tag": "Microsoft Azure - Resource Group",
+      "stroke": "#753cd8",
+      "color": "#753cd8",
+      "icon": "https://raw.githubusercontent.com/Mrkisha/structurizr/main/themes/deployment/img/Azure-Resource-Groups.png"
     }
   ]
 }
