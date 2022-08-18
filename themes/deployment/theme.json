@@ -7,6 +7,12 @@
       "stroke": "#2494ec",
       "color": "#2494ec",
       "icon": "https://raw.githubusercontent.com/Mrkisha/structurizr/main/themes/deployment/img/Moby-logo.webp"
+    },
+    {
+      "tag": "Docker Container",
+      "stroke": "#2494ec",
+      "color": "#2494ec",
+      "icon": "https://github.com/Mrkisha/structurizr/blob/main/themes/deployment/img/Microsoft_Azure.svg.png"
     }
   ]
 }
