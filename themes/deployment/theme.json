@@ -13,6 +13,12 @@
       "stroke": "#2494ec",
       "color": "#2494ec",
       "icon": "https://github.com/Mrkisha/structurizr/blob/main/themes/deployment/img/Microsoft_Azure.svg.png"
+    },
+    {
+      "tag": "Docker Container",
+      "stroke": "#2494ec",
+      "color": "#2494ec",
+      "icon": "https://github.com/Mrkisha/structurizr/blob/main/themes/deployment/img/Azure%20Container%20Apps.png"
     }
   ]
 }
