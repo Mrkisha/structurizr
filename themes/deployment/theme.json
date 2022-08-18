@@ -9,15 +9,15 @@
       "icon": "https://raw.githubusercontent.com/Mrkisha/structurizr/main/themes/deployment/img/Moby-logo.webp"
     },
     {
-      "tag": "Docker Container",
-      "stroke": "#2494ec",
-      "color": "#2494ec",
+      "tag": "Azure",
+      "stroke": "#279ce3",
+      "color": "#279ce3",
       "icon": "https://github.com/Mrkisha/structurizr/blob/main/themes/deployment/img/Microsoft_Azure.svg.png"
     },
     {
-      "tag": "Docker Container",
-      "stroke": "#2494ec",
-      "color": "#2494ec",
+      "tag": "Microsoft Azure - Container App",
+      "stroke": "#753cd8",
+      "color": "#753cd8",
       "icon": "https://github.com/Mrkisha/structurizr/blob/main/themes/deployment/img/Azure%20Container%20Apps.png"
     }
   ]
